@@ -15,4 +15,4 @@ You can view the site here: https://gilson96.github.io/ReactMeals/
 - GitHub Pages,
 
 ## Screenshot
-![Wireframe](./src/assets/Screenshot%20(121).png)
+![Wireframe](./src/assets/Screenshot.png)
