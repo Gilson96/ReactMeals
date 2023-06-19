@@ -38,3 +38,24 @@
     transform: translateY(0);
   }
 }
+
+@media screen and (max-width: 5000px) {
+  .modal{
+    top: 1vh;
+  }
+  
+}
+
+@media screen and (max-width: 400px) {
+  .modal{
+    top: 1vh;
+  }
+  
+}
+
+@media screen and (max-width: 350px) {
+  .modal{
+    top: 1vh;
+  }
+  
+}
